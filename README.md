@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a back-end developer with expertise in DDD, TDD, and clean architecture.<br><br>🏝️ Coding from Tenerife, Spain.<br><br>🔭 I'm currently working as a back-end developer on an internal project at @Inditex.<br><br>📚 I'm currently learning about design heuristics 🤓.<br><br>⚡ In my free time, I enjoy tinkering with emulators, playing board games, and hiking ⛰.</p>
+<p align="left">I'm a back-end developer with expertise in DDD, TDD, and clean architecture.<br><br>🏝️ Coding from Tenerife, Spain.<br><br>🔭 I'm currently working as a Full Stack developer.<br><br>📚 I'm currently learning about design heuristics 🤓.<br><br>⚡ In my free time, I enjoy tinkering with emulators, playing board games, and hiking ⛰.</p>
 
 ###
 
